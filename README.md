@@ -45,6 +45,13 @@
 2. 对照「JS面试专题」逐个攻克手写题与原理题
 3. 面试前回顾「精简版」「复习篇」做快速冲刺
 
+## 🔗 相关资源
+
+- [面试鸭](https://www.mianshiya.com/) —— 海量面试八股题库,在线刷题
+- [小林 coding](https://www.xiaolinnote.com/) —— 图解计算机基础与面试八股笔记
+- [牛客网](https://www.nowcoder.com/) —— 校招/社招刷题与笔面试平台
+- [LeetCode 力扣](https://leetcode.cn/) —— 算法与数据结构刷题
+
 ## 📄 说明
 
 - 所有资料均为 PDF 格式,可直接下载阅读
