@@ -48,7 +48,8 @@
 ## 🔗 相关资源
 
 - [面试鸭](https://www.mianshiya.com/) —— 海量面试八股题库,在线刷题
-- [小林 coding](https://www.xiaolinnote.com/) —— 图解计算机基础与面试八股笔记
+- [小林 coding](https://www.xiaolincoding.com/) —— 全面的后端八股笔记
+- [小林 AI](https://www.xiaolinnote.com/) —— 针对 AI 方向的八股笔记
 - [牛客网](https://www.nowcoder.com/) —— 校招/社招刷题与笔面试平台
 - [LeetCode 力扣](https://leetcode.cn/) —— 算法与数据结构刷题
 
