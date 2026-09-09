@@ -56,6 +56,7 @@
 - [牛客网](https://www.nowcoder.com/) —— 校招/社招刷题与笔面试平台
 - [LeetCode 力扣](https://leetcode.cn/) —— 算法与数据结构刷题
 - [掘金 · 2026 React 面试高频 60 问](https://juejin.cn/post/7657885309049831451) —— React 高频面试题汇总
+- [掘金 · 2026 Vue3 高频面试 88 问](https://juejin.cn/post/7657833280844480538) —— 2026 最新版 Vue3 高频面试题
 
 ## 📄 说明
 
